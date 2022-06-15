@@ -1,2 +1,2 @@
 # Mika-Gu.github.io
-personal website
+personal website: https://mika-gu.github.io/
